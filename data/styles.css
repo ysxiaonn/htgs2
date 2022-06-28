@@ -57,6 +57,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -71,6 +75,10 @@
   text-align:center;
 }
 .table_cell {
+}
+._连接线 {
+  font-size:12px;
+  text-align:left;
 }
 ._流程形状 {
 }
@@ -107,6 +115,8 @@
 .image {
   color:#000000;
 }
+.table {
+}
 .iconfont {
   font-family:'iconfont Regular', 'iconfont';
   font-weight:400;
@@ -125,4 +135,6 @@
 .icon {
 }
 ._默认样式 {
+}
+.flow_shape {
 }
